@@ -11,7 +11,7 @@ const GetStart = () => {
                     <code>npm install avocode-ui-library</code>
                 </div>
                 <div className='mt5 mb5 '>
-                    <img src="/public/avocodenpm.png" className='w-full md:w-2/3' alt="cdn img" />
+                    <img src="/avocodenpm.png" className='w-full md:w-2/3' alt="cdn img" />
                 </div>
             </div>
             <hr />
@@ -26,7 +26,7 @@ const GetStart = () => {
                     </code>
                 </div>
                 <div className='mt5 mb5'>
-                    <img src="/public/avocodecdn.png" className='w-full md:w-2/3' alt="cdn img" />
+                    <img src="/avocodecdn.png" className='w-full md:w-2/3' alt="cdn img" />
                 </div>
             </div>
         </div>
