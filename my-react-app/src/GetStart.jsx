@@ -2,8 +2,8 @@ import React from 'react'
 
 const GetStart = () => {
   return (
-    <div>
-         <div className='m4'>
+    <div className='flex flex-col items-center'>
+         <div className='m4 md:w-2/3 text-justify'>
             <div className='mb5'>
                 <h2 style={{fontSize:"32px"}} className='mb4'>📦 Install via Package Manager</h2>
                 <p className='font-bold text-md opacity-60'>Install Avocode-UI’s core CSS utilities and JavaScript plugins using your favorite package manager. Our minimal and modular structure makes it easy to integrate into any frontend project. You can also explore pre-built UI examples to kickstart your next design with speed and flexibility.</p>
