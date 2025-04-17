@@ -10,7 +10,7 @@ const Footer = () => {
             <div >
                 <p className='w-64'>
                     Designed and built with ❤️ by the Avocode team with the help of our contributors.<br />
-                    Currently <strong>v1.0.0</strong>.
+                    Currently <strong>v1.0.3</strong>.
                 </p>
             </div>
             <div >

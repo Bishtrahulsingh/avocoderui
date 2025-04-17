@@ -16,7 +16,7 @@ const Home = () => {
             npm install avocode-ui-library
         </div>
         {/* how to use extra */}
-        <div className='md:flex  md:flex-row m4 md:justify-around gap-5'>
+        <div className='md:flex  md:flex-row m4 md:justify-around gap-5 md:w-2/3'>
             <div className='mb5'>
                 <h2 style={{fontSize:"32px"}} className='mb4'>📦 Install via Package Manager</h2>
                 <p className='font-bold text-md opacity-60'>Install Avocode-UI’s core CSS utilities and JavaScript plugins using your favorite package manager. Our minimal and modular structure makes it easy to integrate into any frontend project. You can also explore pre-built UI examples to kickstart your next design with speed and flexibility.</p>
@@ -32,7 +32,7 @@ const Home = () => {
                 </p>
                 <div className='mt5  bg-gray-500 text-center p2 font-bold pointer' >
                     <code >
-                        https://cdn.jsdelivr.net/npm/avocode-ui-library@1.0.2/dist/assets/index-B053_CXX.css
+                        https://cdn.jsdelivr.net/npm/avocode-ui-library/dist/assets/index-1y7S7Gk-.css
                     </code>
                 </div>
             </div>

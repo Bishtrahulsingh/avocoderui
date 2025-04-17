@@ -6,7 +6,7 @@ import Footer from "./Footer.jsx"
 import GetStart from "./GetStart.jsx"
 const App = () => {
   return (
-    <>
+    <div className='font-sans'>
       <Router>
         <Navbar/>
         <Routes>
@@ -15,7 +15,7 @@ const App = () => {
         </Routes>
         <Footer/>
       </Router>
-    </>
+    </div>
   )
 }
 
