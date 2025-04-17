@@ -5,7 +5,7 @@ import DarkModeToggle from "avocode-ui-library/src/components/DarkModeToggle"
 const Navbar = () => {
   const docs = import.meta.env.VITE_DOCS_URL;
   return (
-    <div className=' flex justify-around items-center gap-5'> 
+    <div className=' flex justify-around items-center gap-3 m2'> 
         <NavLink className={""} to={"/"}>
             <img width={80} src="avocadologo.png" alt="" />
         </NavLink>
